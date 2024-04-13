@@ -1,6 +1,6 @@
 # MEKKO-RETAIL STORE-INC
 
-[here](SS.jpg)
+![](SS.jpg)
 
 CUSTOMER DEMOGRAPHICS & PREFERENCES ANALYSIS.
 
@@ -69,6 +69,8 @@ Here, we could discover the following:
 5. Customer Surveys: Conduct customer surveys to gather more detailed information about preferences, satisfaction levels, and areas for improvement. This can help in refining marketing strategies, product offerings, and overall customer experience.
 6.  Diversify Vehicle-Related Offerings: If Toyota and Ford dominate the vehicle preferences, the company shuold consider exploring partnerships or collaborations with these automotive brands to enhance the overall shopping experience. This could include exclusive deals, test drive events, or promotions related to vehicle accessories.
 7.  Customer Personalization: Leverage customer data to personalize marketing communications and promotions. This could involve targeted emails, personalized recommendations, or special offers based on customer preferences, age, or purchase history.
+
+Kindly connect with the data ![Here](https://docs.google.com/spreadsheets/d/1335iHRUmippr8Hy4iWqteTjFRjhFjL89/edit?usp=drive_link&ouid=101815099325349837170&rtpof=true&sd=true)
 
 Kindly connect with me.
 Thank you
