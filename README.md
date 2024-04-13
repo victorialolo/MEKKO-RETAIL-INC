@@ -2,8 +2,6 @@
 
 ![](SS.jpg)
 
-CUSTOMER DEMOGRAPHICS & PREFERENCES ANALYSIS.
-
 ## Introduction
 
 Mekko Retail Inc is a global retail chain with multiple departments ranging from Books, Games, Jewelry to Automotive. With it vast presence in different countries. It serves millions of customers base daily.
