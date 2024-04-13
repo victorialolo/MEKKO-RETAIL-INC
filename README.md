@@ -70,5 +70,4 @@ Here, we could discover the following:
 
 Kindly connect with the data ![Here](https://docs.google.com/spreadsheets/d/1cvJjrD8xeRHCJJPHib1Ki9UxlwRp8qgi/edit?usp=drive_link&ouid=101815099325349837170&rtpof=true&sd=true)
 
-Kindly connect with me.
 Thank you
